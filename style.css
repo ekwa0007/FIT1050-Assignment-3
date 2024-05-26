@@ -1464,7 +1464,7 @@ body {
     }
 
     #collection-1602 .cs-link {
-        text-decoration: none;
+        cursor: pointer;
     }
 
     #collection-1602 .cs-link:hover .cs-picture img {
